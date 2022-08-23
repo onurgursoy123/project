@@ -1,0 +1,36 @@
+@charset 'utf-8';
+#booksupply{
+    width: 50%;
+    margin-left: 22rem;
+    margin-top: 5rem;
+} 
+#booksupplyform{
+    padding: 1rem;
+}
+#bookstime{
+    margin-top: 1rem;
+    padding: 1rem;
+}
+#bookstimeadd{
+    background-color: darkgrey;
+    margin-top: 1rem;
+}
+#createpesonal{
+    width: 50%;
+    margin-left: 22rem;
+    margin-top: 5rem;
+}
+#createpesonaladd{
+    margin-top: 1rem;
+    margin-right: 1rem;
+    margin-left: 1rem;
+    margin-bottom: 1rem;
+}
+#createpesonalform{
+    padding: 1rem;
+}
+#booksbuyer{
+    width: 50%;
+    margin-left: 22rem;
+    margin-top: 5rem;
+}
